@@ -9,6 +9,8 @@ Things you may want to cover:
 
 * System dependencies
 
+[ ] - scaping in file.js.erb
+
 * Configuration
 
 * Database creation
